@@ -3,7 +3,7 @@ package com.bignerdranch.android.photogallery;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
-import android.os.Handler;
+//import android.os.Handler;
 import android.os.HandlerThread;
 import android.os.Message;
 import android.util.Log;
