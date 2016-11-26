@@ -8,7 +8,7 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
-import android.graphics.drawable.RippleDrawable;
+//import android.graphics.drawable.RippleDrawable;
 import android.net.Uri;
 import android.util.Log;
 
